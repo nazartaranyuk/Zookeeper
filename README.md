@@ -6,6 +6,7 @@ This my first project, which I was write on JetBrains Academy.
 The repository includes all tasks on this stages
 
 ***[Topics]*** package includes all topics, which I was finish
+
 ***[Zookeeper]*** package includes my project.
 
 
