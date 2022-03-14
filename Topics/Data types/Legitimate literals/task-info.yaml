@@ -1,0 +1,33 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: –6875309
+- text: -1
+- text: 10.0
+- text: 42
+- text: '''7'''
+- text: 2.3
+- text: 1.5
+- text: '"-12"'
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16078#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 24 Jan 2022 22:35:34 UTC
+record: -1
+selected_options:
+- 0
+- 1
+- 3

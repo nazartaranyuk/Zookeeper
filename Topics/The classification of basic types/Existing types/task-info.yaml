@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Char
+- text: Character
+- text: Double
+- text: Int
+- text: Integer
+- text: Fraction
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4459#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 25 Jan 2022 13:13:39 UTC
+record: -1
+selected_options:
+- 2
+- 3
+- 5
